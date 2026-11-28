@@ -1,0 +1,126 @@
+/*pre {
+ white-space: pre-wrap;
+ white-space: -moz-pre-wrap !important;
+ white-space: -pre-wrap;
+ white-space: -o-pre-wrap;
+ word-wrap: break-word;
+ width: 99%;
+}*/
+pre {
+    white-space: pre; /* CSS2 */
+    white-space: -moz-pre-wrap; /* Mozilla */
+    white-space: -hp-pre-wrap; /* HP printers */
+    white-space: -o-pre-wrap; /* Opera 7 */
+    white-space: -pre-wrap; /* Opera 4-6 */
+    white-space: pre-wrap; /* CSS 2.1 */
+    white-space: pre-line; /* CSS 3 (and 2.1 as well, actually) */
+    word-wrap: break-word; /* IE */
+}
+/* Browser specific (not valid) styles to make preformatted text wrap */
+#form-comments{
+    width:50%;
+    margin-left:0;
+    background:#FAFAFA;
+}
+.textly{
+    width:420px;
+    height:30px;
+    /*background:#ccc;*/
+    background:#fff;
+    /*border: 2px solid #336666;*/
+    border: 2px solid #7f8400;
+    color:#333;
+    font-family:arial;
+    font-size:20px;
+}
+#textcomment{
+    width:420px;
+    /*background:#333;*/
+    background:#fff;
+    /*border: 2px solid #336666;*/
+    border: 2px solid #7f8400;
+    color:#333;
+    font-family:monospace;
+    font-size:15px;
+    overflow-y:auto;
+}
+.parag{
+    width:19%;
+    padding:4px 2px 2px 4px;
+    /*background:#336666;*/
+    background: #7F8400;
+    color:#fff;
+    font-family:arial;
+    font-size:13px;
+    font-weight:bold;
+
+}
+.sender{
+    text-align:right;
+    margin-right:15%;
+    //margin-right:5%;
+}
+#submitter{
+    width:80px;
+    height:30px;
+    /*background:#336666;*/
+    background:#7f8400;
+    color:#fff;
+    font-family:arial;
+    font-size:15px;
+    font-weight:bold;
+
+}
+#captcha{
+    height:30px;
+    color:#333;
+    font-family:arial;
+    font-size:20px;
+}
+table{
+    border: 2px solid #7f8400;
+}
+.cm_header{
+    width:80%;
+    padding-left:10px;
+    background:#7f8400;
+    font-family:compact;
+    font-size:13px;
+    color:#ccc;
+}
+.cm_body{
+    width:80%;
+    padding: 10px 0 10px 5px;
+    margin-top:0;
+    margin-bottom: 10px;
+    border:2px solid #7f8400;
+    font-family:Monotype,Lucida Console,Modern,arial;
+    font-size:12px;
+}
+#powered{
+    font-size:10px;
+    text-align:left;
+}
+.msjErrorv{
+    padding: 5px 0 5px 0;
+    background:#FF3300;
+    border: 2px solid #fff;
+    text-align:center;
+    color:#fff;
+    font-family:arial;
+    font-size:13px;
+    font-weight:bold;
+}
+.emerge{
+    width:200px;
+    height:50px;
+    left:25%;
+    padding-top:20px;
+    position:relative;
+    background:#ff3300;
+    text-align:center;
+    font-size:18px;
+    font-family:arial,georgia,courier new;
+    color:#fff;
+
+}

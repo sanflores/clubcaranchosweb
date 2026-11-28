@@ -1,0 +1,94 @@
+ALBUM|20070707|07/07/2007: El día del examen
+FOTO|alumnos.jpg|Los flamantes|Los nuevos pilotos, remolcadores e instructores.<br><strong>De izquierda a derecha, fila superior</strong>: José Otero (Jefe de Instructores), Darío Tenaguillo (piloto de planeador y flamante instructor), Marcos Fissore (flamante piloto), Gustavo Santamaría (flamante piloto), Matías Toledo (flamante piloto), Hugo Vicario (instructor), Cristian Proietti (flamante piloto), Víctor Garro (flamante piloto, de Catamarca).<br><strong>En la fila inferior</strong>: Javier Cabanillas (flamante piloto), Tomás Ruibal (piloto de planeador y flamante piloto de remolcador), Norberto Ruesch (piloto de planeador y flamante piloto de remolcador) y Fernando Mocibob (piloto de planeador y flamante piloto remolcador).<br><strong>Detrás de todos</strong>: Por supuesto, nuestro ASK-13.
+FOTO|todos.jpg|Todos|Todo el equipo de Los Caranchos, junto con nuestros invitados de Catamarca.<br><strong>De izquierda a derecha, fila superior</strong>: Oscar Spalletti (Presidente), Alfredo "Alfi" Horrocks (instructor de Víctor), Nelson Gómez (alumno), Darío Tenaguillo, José Otero, Mayor Eduardo Álvarez (inspector de la Fuerza Aérea), Ricardo Gudiño (Tesorero), un amigo, Marcos Fissore, Gustavo Santamaría, Matías Toledo, Cristian Proietti, Hugo Vicario.<br><strong>En la fila inferior</strong>: Javier Cabanillas, Bettina Spalletti, Tomás Ruibal, otro amigo, Noberberto Ruesch, Fernando Mocibob y Víctor Garro.
+
+ALBUM|20070706|06/07/2007: Día de entrenamiento previo a la inspección
+FOTO|indicaciones.jpg|Indicaciones|Uno de nuestros felinos dándole instrucciones de vuelo a Norberto acerca de cómo debe realizar las maniobras de remolque
+FOTO|gato.jpg|El gato volador|Hasta los gatos tienen pasión aeronáutica en Los Caranchos
+
+ALBUM|club|Club|Club de Planeadores Los Caranchos: Situado en la base de las Sierras Chicas nos brinda la posibilidad de realizar tanto vuelos de llanura como de montaña. En estas fotos podremos apreciar sus instalaciones, el aeródromo, y la zona de vuelo local.
+FOTO|Club.jpg|Instalaciones|Instalaciones del Club: Vista aérea de los hangares y forestación.
+FOTO|Clubviejo.jpg|Antigua foto aérea del Club|Antigua foto aérea del Club: Desconozco la fecha.
+FOTO|Agr.jpg|Alta Gracia|Ciudad de Alta Gracia: En la falda de las sierras chicas, sobrevolada por el Grob G-103
+FOTO|Quincho.jpg|Quincho|Quincho: Aún en construcción, se visualizan el ASK-13 de instrucción y el avión remolcador con las sierras chicas al fondo.
+FOTO|Pista.jpg|Vista Aérea de la pista|Vista aérea de la Pista: El Grob G-103 sobrevolando la pista. Se visualiza su cabecera 02 y las instaciones del Aeroclub Alta Gracia y de Los Caranchos.
+FOTO|Maquinas_en_Plataforma.jpg|Máquinas en Plataforma|Máquinas en Plataforma: El conjunto de planeadores de Los Caranchos junto a los dos aviones remolcadores.
+FOTO|Ka6.jpg|Volando sobre la llanura|Volando sobre la llanura: Al este y sur del aeródromo cada campo es una pista de aterrizaje. La punta de ala señala al Ka-6 virando.
+FOTO|Grob2.jpg|Planeador Biplaza Grob|Planeador Biplaza Grob G-103 Acro: Totalmente acrobático, usado para instrucción avanzada de pilotos.
+FOTO|Aterrizando.jpg|Planeador aterrizando|Planeador aterrizando: En la cabecera 02, el planeador ASW-20. Al fondo las sierras chicas de Córdoba.
+FOTO|Anizacate.jpg|Remolque sobre el río Anizacate|Remolque sobre el río Anizacate: En ocasión de una visita de la Escuela de Aviación Militar a Los Caranchos (Foto: Cap. Marcelo Buteler).
+FOTO|Pirat.jpg|Planeador Pirat de la Escuela de Aviación Militar|Planeador Pirat de la Escuela de Aviación Militar: Volando en Los Caranchos (Foto: Cap. Marcelo Buteler)
+FOTO|Twin.jpg|Planeador Twin de la Escuela de Aviación Militar|Planeador Grob de la Escuela de Aviación Militar: Volando en instrucción sobre Alta Gracia (Foto: Cap. Marcelo Buteler).
+FOTO|Tocho.jpg|Planeador Twin de la Escuela de Aviación Militar(2)|Planeador Grob de la Escuela de Aviación Militar: Al comando del Vcom. Rodolfo "Tocho" Hub, en el puesto trasero, durante un vuelo de instrucción de un cadete en la Escuela de Aviación Militar.
+FOTO|69.jpg|Planeador Cirrus 69|El Cirrus 69: Sentado Hugo Vicario, y parados de izq. a der. Ricardo Gudiño, Luis Rossi y Claudio Venturini.
+FOTO|GrobyK13.jpg|Primer vuelo|Primer vuelo: De una sobrina de Luis Rossi realizado por Hugo Vicario. Atrás se encuentran Arturo Meroff y Marcos Ríos. También se ve el otro biplaza (K-13).
+FOTO|Quintana.jpg|Dique José de la Quintana|Dique José de la Quintana: Sobre el arroyo Los Molinos. Atrás hacia el oeste se ve el Dique Los Molinos, y por detrás el cordón de las Sierras Grandes.
+
+ALBUM|sierrasgrandes|Sierras Grandes|Sierras Grandes (Comechingones): Es una cadena montañosa que corre de Norte a Sur. Sus cerros mas importantes son el Champaquí (2.790 m.s.n.m.) que es el más alto de la provincia de Córdoba, el Cerro Negro y Los Gigantes (2.380 m.s.n.m.).
+FOTO|Cerro_Negro.jpg|Cerro Negro|Cerro Negro: Esta foto nos muestra su cara Oeste, y sobre la raíz del ala se puede visualizar parte del Dique de la Viña.
+FOTO|Dique.jpg|Dique la Viña|Dique La Viña: Visto desde la cumbre del Cerro Negro. Atrás se obserba la llanura de la Provincia de San Luis.
+FOTO|Gigantes.jpg|Los Gigantes|Los Gigantes: En el extremo norte de las Sierras Grandes, posee paredes de granito aptas para escalar y donde clubes de montañismo han instalado refugios.
+FOTO|Mogote.jpg|Los Mogotes|Los Mogotes: Son las estribaciones mas altas de Los Gigantes.
+FOTO|Cruz1.jpg|Cerro de la Cruz|Cerro de La Cruz: Es el cerro mas escalado de Los Gigantes (En el extremo inferior derecho).
+FOTO|Cruz.jpg|Cerro de la Cruz (2)|Cerro de la Cruz (2): En el macizo de Los Gigantes.
+FOTO|rotonda.jpg|La Rotonda|La Rotonda: Refugio de la familia Pedernera en la base de Los Gigantes.
+FOTO|Basegiga.jpg|Base de Los Gigantes|Base de Los Gigantes: Siempre tiene térmicas muy fuertes con componente dinámico desde el noreste.
+FOTO|Uranio.jpg|Planta de extracción de uranio|Planta de extracción de uranio: En la base de Los Gigantes.
+FOTO|Camino.jpg|Altas Cumbres|Camino de las Altas Cumbres: Atravieza las sierras grandes uniendo el este con el oeste de la Pcia. de Córdoba.
+FOTO|Parapentes.jpg|Parapentes|Parapentes: Volando sobre el camino de las Altas Cumbres.
+FOTO|Condori.jpg|Quebrada Los Condoritos|Quebrada Los Condoritos: Poblada de nidos de cóndores, es un parque nacional.
+FOTO|Cascada.jpg|Cascada de Los Condoritos|Cascada de la Quebrada de Los Condoritos:
+FOTO|Cascada2.jpg|Cascada de Los Condoritos (2)|Cascada de la Quebrada de los Condoritos (2):
+FOTO|La_Petaca.jpg|La Petaca|La Petaca: Es uno de los afluentes del río San José de la quebrada de Los Condoritos
+FOTO|Condori2.jpg|Pared sur de Los Condoritos|Pared Sur de la quebrada de Los Condoritos: Esta pared está poblada de nidos de cóndores.
+FOTO|SanClemente.jpg|San Clemente|San Clemente: Localidad situada en la base de la quebrada Los Condoritos, donde se siembran truchas en el Córdoba Trucha Club.
+FOTO|vadojose.jpg|Vado sobre el río San José|Vado sobre el río San José: En la localidad de San Clemente.
+FOTO|Champaqui.jpg|Cerro Champaquí|Champaquí: El ala señala la vista suroeste desde su cumbre.
+FOTO|Champaqui2.jpg|Cerro Champaquí 2|Champaquí -2: Desde su cumbre hacia el oeste y de sur a norte, se obserban las localidades de Yacanto (de traslasierra) y San Javier debajo del ala , y el Dique La Viña.
+FOTO|Nacimiento_del_Rio_Mina_Clavero.jpg|Nacimiento del Río Mina Clavero|Río Mina Clavero: En esta foto se aprecia su nacimiento y como se desplaza hacia el valle de traslasierra, siendo sorteado por el camino de las Altas Cumbres.
+FOTO|La_Cumbrecita.jpg|La Cumbrecita|La Cumbrecita: Al final del camino, en el centro, se visualiza una pequeña localidad entre los pinos y las sierras. Colonia alemana con arquitectura alpina.
+
+ALBUM|sierraschicas|Sierras Chicas|Sierras Chicas: Esta cadena también corre de Norte a Sur, siendo su cerro mas alto el Uritorco (1.950 m.s.n.m.).
+FOTO|Los_Molinos2.jpg|Dique Los Molinos|Dique Los Molinos: Al sur de Alta Gracia. Lugar de asiento de varios clubes de pescadores.
+FOTO|Los_Molinos.jpg|Dique Los Molinos 2|Dique Los Molinos: Vista aérea más cercana.
+FOTO|Agr.jpg|Alta Gracia|Ciudad de Alta Gracia: En la falda de las sierras chicas, sobrevolada por el Grob G-103
+FOTO|Alegre.jpg|Observatorio Bosque Alegre|Observatorio Bosque Alegre:
+FOTO|Alegre2.jpg|Observatorio Bosque Alegre (2)|Observatorio Bosque Alegre: Vista desde el sur.
+FOTO|Estacion.jpg|Estación Terrena Bosque Alegre|Estación terrena Bosque Alegre:
+FOTO|Casa_de_Tulio.jpg|Casa de Tulio Calderón|Casa de Tulio Calderón: Señalada por la punta del ala. Se obserba una pequeña pista que corta en X el camino de ingreso a la casa.
+FOTO|Tulio.jpg|Casa de Tulio Calderón (2)|Casa de Tulio Calderón (2):
+FOTO|Carlos_Paz_y_lago_San_Roque.jpg|Villa Carlos Paz y lago San Roque|Villa Carlos Paz y lago San Roque: Vista desde el sur de la villa serrana de mayor interés turístico de la Provincia de Córdoba.
+FOTO|Carlos_Paz_y_lago_San_Roque2.jpg|Villa Carlos Paz y lago San Roque 2|Villa Carlos Paz y lago San Roque: Vista desde el sureste y sobre las sierras chicas.
+FOTO|La_Falda.jpg|La Falda y el camino del Cuadrado|La Falda y el camino del Cuadrado: Desde el este se ve como desciende el camino del cuadrado hacia la localidad de La Falda del valle de Punilla.
+FOTO|La_Cumbre.jpg|La Cumbre|La Cumbre: Volando sobre las sierras, de norte a sur, a la derecha se aprecia en primer lugar a La Cumbre y más a lo lejos La Falda. Ambas localidades del valle de Punilla. (No me cargen por la lanita).
+FOTO|Ovni_Uritorco.jpg|Ovni detrás del Uritorco|Ovni detrás del Uritorco: La flecha señala el círculo que se atribuyó a un ovni, y que dió tanto renombre al Cerro Uritorco.
+
+ALBUM|laconsulta|La Consulta|La Consulta (Provincia de Mendoza): Fotografías tomadas en las excursiones realizadas durante los años 1998 y 1999, para perfeccionar el vuelo en montaña, y que contaran con la presencia de Justin Wills (Nueva Zelanda). Puede acceder a un articulo sobre el tema en La Consulta99.
+FOTO|Caja_en_la_Pista.jpg|Caja en la pista|Caja en la pista: Así se denomina el ordenado de los planeadores que esperan el turno para despegar.
+FOTO|Crepusculo.jpg|Crepúsculo|Crepúsculo: El CA (ASW-20) con el fondo de las nubes y los cerros en el crepúsculo de la Cordillera de Los Andes (Foto: Tato Verdura).
+FOTO|Nubes_de_Onda.jpg|Nubes de Onda|Nubes de Onda: Este día Justin Wills (Nueva Zelanda) con Mauricio Delfabro en el Janus tomaron 8.500 metros en onda (Foto: Tato Verdura)
+FOTO|Entre_quebradas.jpg|Entre quebradas|Entre quebradas: Foto tomada por Thierry Fraize desde el Cirrus 2.
+FOTO|Quebrada_del_Tunuyan.jpg|Quebrada del Tunuyán|Quebrada del Tunuyán: Con nubes sobre el Cerro Redondo.
+FOTO|Condores.jpg|Cóndores|Cóndores: El ala los señala volando en las laderas.
+FOTO|libelle.jpg|Volviendo al atardecer|Volviendo al atardecer: El Libelle 92 piloteado por Luis Mazzaglia (Foto de Arturo Ferreyra).
+FOTO|CA_en_las_nubes.jpg|El CA entre las nubes|CA (ASW-20) en las nubes: Fotografía obtenida por Arturo Ferreyra.
+FOTO|Rayos.jpg|Rayos de sol|Rayos de sol: En la cordillera.
+FOTO|El_CS_entre_los_cerros.jpg|El CS entre los cerros|El CS (DG-400) entre los cerros: Al mando de Carlos Schmitt (Foto de Arturo Ferreyra).
+FOTO|Pasada_del_KY.jpg|Pasada del KY|Pasada del KY (Cirrus): Al comando de Arturo Ferreyra.
+FOTO|Manzano_Historico.jpg|Manzano histórico|Manzano Histórico: Lugar donde descansó San Martín durante su cruce de la cordillera de Los Andes.
+FOTO|2yThierry.jpg|El 2 y el Tupungato|El 2 (Cirrus) y el Tupungato: Al comando de Thierry Fraize, al fondo y a la derecha se ve el Cerro Tupungato.
+FOTO|Base_del_Tupungato.jpg|Base del Tupungato|Base del Tupungato: Se obserba su cara sureste. La cumbre del cerro (6.800 metros s.n.m.) está oculta por las nubes.
+FOTO|Pista_de_esqui_Vallecitos.jpg|Pista de esquí Vallecitos|Pista de esquí Vallecitos: Situada a unos 90 kilómetros de La Consulta.
+FOTO|Un_Cirrus_en_Los_Andes.jpg|Un Cirrus en Los Andes|Un Cirrus (KY) en Los Andes: Foto de Arturo Ferreyra.
+FOTO|Pasada_del_CA.jpg|Pasada de un ASW-20|Pasada de un ASW-20 (CA): Al comando de José Otero (Foto de Arturo Ferreyra).
+
+ALBUM|andalgala|Andalgalá|Andalgalá (Provincia de Catamarca): Fotografías tomadas en la excursión realizada en Abril de 1993 organizada por el Club de Planeadores Catamarca, para investigar la precordillera.
+FOTO|Pista_en_el_desierto.jpg|Pista en el desierto|Pista en el desierto: Asfaltada y de 2.000 metros de longitud. Al fondo se ve el salar de Pipanaco y la cara oeste de la sierra de Ambato.
+FOTO|Nevado_del_Candado.jpg|Nevado del Candado|Nevado del Candado (5.450 metros s.n.m.): Forma parte de la Sierra del Aconquija que separa la provincia de Catamarca de la de Tucumán.
+FOTO|Ciudad.jpg|Ciudad de Andalgalá|Ciudad de Andalgalá: En la base del Nevado del Candado.
+FOTO|Virando.jpg|Virando en el Ambato|Virando en las faldas del cerro Ambato:
+FOTO|Desierto.jpg|Desierto|Desierto del Salar de Pipanaco: La flecha señala la cresta nevada del cerro Famatina de la Provincia de La Rioja, en el extremo sur de este desierto.
+FOTO|Chicos_en_plataforma.jpg|Chicos en plataforma|Chicos en plataforma: Mis hijos Lucía, José Ignacio y Pilar Otero en la plataforma. Al fondo el cerro Nevado del Candado.
+FOTO|Mi_Familia.jpg|Mi Familia|Mi Familia: Mi mujer Ana, mis hijos Lucía, José Ignacio (h) y Pilar, y yo. Detrás el Jantar del C.P.Catamarca.
+FOTO|Familia2001.jpg|Mi Familia 2001|Mi familia versión 2001: Mi mujer Ana, mis hijos Lucía, José Ignacio (h) y Pilar, y yo en el Campeonato Nacional de Tres Arroyos.
+FOTO|Familia2002.jpg|Mi Familia 2002|Mi familia versión 2002: Mi mujer Ana, mis hijos Lucía, José Ignacio (h) y Pilar, y yo (Foto: Susana Goddio de Sanchez)
